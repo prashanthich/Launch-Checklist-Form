@@ -23,7 +23,7 @@ function getPlanetaryInfo() {
    });
 }
 
-// on page load
+// on page load   .
 window.addEventListener("load", function () {
    getPlanetaryInfo();
 
